@@ -1,7 +1,7 @@
 {
-  "name": "typeface-notosans-kr",
+  "name": "typeface-notosans-kor",
   "version": "1.0.0",
-  "description": "Noto Sans Korean font for the web.",
+  "description": "Noto Sans KR font for the web.",
   "main": "stylesheet.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
