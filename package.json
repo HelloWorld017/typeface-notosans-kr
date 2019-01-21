@@ -1,0 +1,25 @@
+{
+  "name": "typeface-notosans-kr",
+  "version": "1.0.0",
+  "description": "Noto Sans Korean font for the web.",
+  "main": "stylesheet.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelloWorld017/typeface-notosans-kr.git"
+  },
+  "keywords": [
+    "noto",
+    "notosans",
+	"korean",
+    "typeface"
+  ],
+  "author": "Google",
+  "license": "OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/HelloWorld017/typeface-notosans-kr/issues"
+  },
+  "homepage": "https://github.com/HelloWorld017/typeface-notosans-kr#readme"
+}
