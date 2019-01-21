@@ -1,6 +1,6 @@
 {
   "name": "typeface-notosans-kor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Noto Sans KR font for the web.",
   "main": "stylesheet.css",
   "scripts": {
