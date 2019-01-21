@@ -8,7 +8,6 @@
        url('./fonts/noto-sans-kr-v8-korean_latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('./fonts/noto-sans-kr-v8-korean_latin-100.woff2') format('woff2'), /* Super Modern Browsers */
        url('./fonts/noto-sans-kr-v8-korean_latin-100.woff') format('woff'), /* Modern Browsers */
-       url('./fonts/noto-sans-kr-v8-korean_latin-100.ttf') format('truetype'), /* Safari, Android, iOS */
        url('./fonts/noto-sans-kr-v8-korean_latin-100.svg#NotoSansKR') format('svg'); /* Legacy iOS */
 }
 /* noto-sans-kr-300 - korean_latin */
@@ -21,7 +20,6 @@
        url('./fonts/noto-sans-kr-v8-korean_latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('./fonts/noto-sans-kr-v8-korean_latin-300.woff2') format('woff2'), /* Super Modern Browsers */
        url('./fonts/noto-sans-kr-v8-korean_latin-300.woff') format('woff'), /* Modern Browsers */
-       url('./fonts/noto-sans-kr-v8-korean_latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
        url('./fonts/noto-sans-kr-v8-korean_latin-300.svg#NotoSansKR') format('svg'); /* Legacy iOS */
 }
 /* noto-sans-kr-regular - korean_latin */
@@ -34,7 +32,6 @@
        url('./fonts/noto-sans-kr-v8-korean_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('./fonts/noto-sans-kr-v8-korean_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
        url('./fonts/noto-sans-kr-v8-korean_latin-regular.woff') format('woff'), /* Modern Browsers */
-       url('./fonts/noto-sans-kr-v8-korean_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('./fonts/noto-sans-kr-v8-korean_latin-regular.svg#NotoSansKR') format('svg'); /* Legacy iOS */
 }
 /* noto-sans-kr-500 - korean_latin */
@@ -47,7 +44,6 @@
        url('./fonts/noto-sans-kr-v8-korean_latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('./fonts/noto-sans-kr-v8-korean_latin-500.woff2') format('woff2'), /* Super Modern Browsers */
        url('./fonts/noto-sans-kr-v8-korean_latin-500.woff') format('woff'), /* Modern Browsers */
-       url('./fonts/noto-sans-kr-v8-korean_latin-500.ttf') format('truetype'), /* Safari, Android, iOS */
        url('./fonts/noto-sans-kr-v8-korean_latin-500.svg#NotoSansKR') format('svg'); /* Legacy iOS */
 }
 /* noto-sans-kr-700 - korean_latin */
@@ -60,7 +56,6 @@
        url('./fonts/noto-sans-kr-v8-korean_latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('./fonts/noto-sans-kr-v8-korean_latin-700.woff2') format('woff2'), /* Super Modern Browsers */
        url('./fonts/noto-sans-kr-v8-korean_latin-700.woff') format('woff'), /* Modern Browsers */
-       url('./fonts/noto-sans-kr-v8-korean_latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
        url('./fonts/noto-sans-kr-v8-korean_latin-700.svg#NotoSansKR') format('svg'); /* Legacy iOS */
 }
 /* noto-sans-kr-900 - korean_latin */
@@ -73,6 +68,5 @@
        url('./fonts/noto-sans-kr-v8-korean_latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('./fonts/noto-sans-kr-v8-korean_latin-900.woff2') format('woff2'), /* Super Modern Browsers */
        url('./fonts/noto-sans-kr-v8-korean_latin-900.woff') format('woff'), /* Modern Browsers */
-       url('./fonts/noto-sans-kr-v8-korean_latin-900.ttf') format('truetype'), /* Safari, Android, iOS */
        url('./fonts/noto-sans-kr-v8-korean_latin-900.svg#NotoSansKR') format('svg'); /* Legacy iOS */
 }
