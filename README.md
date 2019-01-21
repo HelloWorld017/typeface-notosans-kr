@@ -1,19 +1,19 @@
-# typeface-notosans-kr
+# typeface-notosans-kor
 This project has been copied from [Google Fonts](https://fonts.google.com/specimen/Noto+Sans+KR)
 
 ## Installation
-`$ npm i typeface-notosans-kr --save`
+`$ npm i typeface-notosans-kor --save`
 
 ## Usage
 `font-family: 'Noto Sans KR', sans-serif;`
 
 ### Importing (Webpack)
 ```js
-require("typeface-notosans-kr"); //CommonJS Style
+require("typeface-notosans-kor"); //CommonJS Style
  
 //OR
  
-import "typeface-notosans-kr"; //ES6 Style
+import "typeface-notosans-kor"; //ES6 Style
 ```
 
 ## About Font
